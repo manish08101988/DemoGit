@@ -1,0 +1,11 @@
+C:\Users\Manish\Desktop\Practice\git_Demo\bin\Debug\netcoreapp2.1\git_Demo.deps.json
+C:\Users\Manish\Desktop\Practice\git_Demo\bin\Debug\netcoreapp2.1\git_Demo.runtimeconfig.json
+C:\Users\Manish\Desktop\Practice\git_Demo\bin\Debug\netcoreapp2.1\git_Demo.runtimeconfig.dev.json
+C:\Users\Manish\Desktop\Practice\git_Demo\bin\Debug\netcoreapp2.1\git_Demo.dll
+C:\Users\Manish\Desktop\Practice\git_Demo\bin\Debug\netcoreapp2.1\git_Demo.pdb
+C:\Users\Manish\Desktop\Practice\git_Demo\obj\Debug\netcoreapp2.1\git_Demo.csprojAssemblyReference.cache
+C:\Users\Manish\Desktop\Practice\git_Demo\obj\Debug\netcoreapp2.1\git_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Manish\Desktop\Practice\git_Demo\obj\Debug\netcoreapp2.1\git_Demo.AssemblyInfoInputs.cache
+C:\Users\Manish\Desktop\Practice\git_Demo\obj\Debug\netcoreapp2.1\git_Demo.AssemblyInfo.cs
+C:\Users\Manish\Desktop\Practice\git_Demo\obj\Debug\netcoreapp2.1\git_Demo.dll
+C:\Users\Manish\Desktop\Practice\git_Demo\obj\Debug\netcoreapp2.1\git_Demo.pdb
